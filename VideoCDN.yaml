@@ -21,6 +21,7 @@ payload:
 - DOMAIN-KEYWORD,yzzy.play-cdn
 - DOMAIN-KEYWORD,vip-yzzy-tv
 - DOMAIN-KEYWORD,default.akamaized.net
+- DOMAIN-KEYWORD,wlcdn
 - DOMAIN-SUFFIX,sxzyhuij.com
 - DOMAIN-SUFFIX,bfbfvip.com
 - DOMAIN-SUFFIX,js.users.51.la
