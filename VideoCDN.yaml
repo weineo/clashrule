@@ -43,5 +43,6 @@ payload:
 - DOMAIN-SUFFIX,lmnno.com
 - DOMAIN-SUFFIX,piwik.top
 - DOMAIN-SUFFIX,mgplayer.cc
+- DOMAIN-REGEX,^abc.*com
 - AND,((DOMAIN-REGEX,^[a-zA-Z0-9]{7-9}ts.com$),(IP-ASN,13335))
 - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.com$),(IP-ASN,13335))
