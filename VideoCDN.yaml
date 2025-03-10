@@ -45,6 +45,7 @@ payload:
 - DOMAIN-SUFFIX,lyhuicheng.com
 - DOMAIN-SUFFIX,lmnno.com
 - DOMAIN-SUFFIX,piwik.top
+- DOMAIN-SUFFIX,ccbstry.top
 - DOMAIN-SUFFIX,mgplayer.cc
 - DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.com$
 # - DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.vip$
