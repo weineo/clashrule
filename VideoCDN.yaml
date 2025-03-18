@@ -9,6 +9,9 @@ payload:
 - DOMAIN-KEYWORD,snzycdn
 - DOMAIN-KEYWORD,hnts.ymuuy
 - DOMAIN-KEYWORD,yzzy-online
+- DOMAIN-KEYWORD,yyzy-play
+- DOMAIN-KEYWORD,yzzy.play-cdn
+- DOMAIN-KEYWORD,vip-yzzy-tv
 - DOMAIN-KEYWORD,ffzy-online
 - DOMAIN-KEYWORD,vip.ffzy-
 - DOMAIN-KEYWORD,cdnlz
@@ -18,8 +21,6 @@ payload:
 - DOMAIN-KEYWORD,bdzybf
 - DOMAIN-KEYWORD,bfzycdn
 - DOMAIN-KEYWORD,kuaikan
-- DOMAIN-KEYWORD,yzzy.play-cdn
-- DOMAIN-KEYWORD,vip-yzzy-tv
 - DOMAIN-KEYWORD,default.akamaized.net
 - DOMAIN-KEYWORD,wlcdn
 - DOMAIN-KEYWORD,play.modujx
