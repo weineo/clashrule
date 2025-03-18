@@ -9,8 +9,9 @@ payload:
 - DOMAIN-KEYWORD,snzycdn
 - DOMAIN-KEYWORD,hnts.ymuuy
 - DOMAIN-KEYWORD,yzzy-online
+- DOMAIN-KEYWORD,yzzyonline
 - DOMAIN-KEYWORD,yyzy-play
-- DOMAIN-KEYWORD,yzzy.play-cdn
+- DOMAIN-KEYWORD,yzzy.
 - DOMAIN-KEYWORD,vip-yzzy-tv
 - DOMAIN-KEYWORD,ffzy-online
 - DOMAIN-KEYWORD,vip.ffzy-
@@ -42,7 +43,6 @@ payload:
 - DOMAIN-SUFFIX,shanshanku.com
 - DOMAIN-SUFFIX,thehanju.com
 - DOMAIN-SUFFIX,leduocdn.com
-- DOMAIN-SUFFIX,yzzy-play.com
 - DOMAIN-SUFFIX,whweitao.com
 - DOMAIN-SUFFIX,lyhuicheng.com
 - DOMAIN-SUFFIX,lmnno.com
