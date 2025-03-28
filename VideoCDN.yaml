@@ -52,6 +52,7 @@ payload:
 - DOMAIN-SUFFIX,ccbstry.top
 - DOMAIN-SUFFIX,mgplayer.cc
 - DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.com$
+- DOMAIN-REGEX,^c\d+\.[a-zA-Z0-9]+.com$
 # - DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.vip$
 - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.vip$),(IP-ASN,13335))
 # - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.com$),(IP-ASN,13335))
