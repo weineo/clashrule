@@ -51,6 +51,7 @@ payload:
 - DOMAIN-SUFFIX,piwik.top
 - DOMAIN-SUFFIX,ccbstry.top
 - DOMAIN-SUFFIX,mgplayer.cc
+- DOMAIN-SUFFIX,lookbook.top
 - DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.com$
 - DOMAIN-REGEX,^c\d+\.[a-zA-Z0-9]+.com$
 # - DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.vip$
