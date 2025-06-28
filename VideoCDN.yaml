@@ -58,6 +58,8 @@ payload:
 - DOMAIN-REGEX,^c\d+\.[a-zA-Z0-9]+.com$
 # - DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.vip$
 - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.vip$),(IP-ASN,13335))
+- AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.xyz$),(IP-ASN,13335))
+- AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.vip$),(IP-ASN,13335))
 # - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.com$),(IP-ASN,13335))
 # - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.com$),(GEOIP,US))
 # - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.com$),(SRC-GEOIP,US))
