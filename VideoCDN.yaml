@@ -62,6 +62,7 @@ payload:
 - DOMAIN-SUFFIX,ts.m3u8.store
 - DOMAIN-SUFFIX,aadd.atqpacsp.sbs
 - DOMAIN-SUFFIX,ckhao.top
+- DOMAIN-SUFFIX,qqqrst.com
 - AND,((DOMAIN-SUFFIX,storagevod.cloud),(IP-ASN,13335))
 - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.vip$),(IP-ASN,13335))
 - AND,((DOMAIN-REGEX,^v\d+\.[a-zA-Z0-9]+.xyz$),(IP-ASN,13335))
